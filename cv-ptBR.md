@@ -1,14 +1,3 @@
----
-documentclass: article
-mainfont: "Arial"
-fontsize: 12pt
-pagestyle: empty
-geometry:
-  - top=1cm
-  - bottom=1cm
-  - left=1cm
-  - right=1cm
----
 # Siloé Garcez - Engenheiro de Software Backend | Go, Python, AWS
 
 Brasília, DF, Brasil
