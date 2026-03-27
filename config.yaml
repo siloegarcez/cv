@@ -1,0 +1,13 @@
+from: gfm
+pdf-engine: xelatex
+variables:
+  colorlinks: true
+  documentclass: article
+  mainfont: Arial
+  fontsize: 12pt
+  pagestyle: empty
+  geometry:
+    - top=1cm
+    - bottom=1cm
+    - left=1cm
+    - right=1cm

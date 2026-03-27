@@ -1,4 +1,4 @@
-flags = -f gfm -V colorlinks=true --pdf-engine=xelatex
+flags = --defaults=config.yaml
 
 all: docx-pt-br docx-en-us pdf-pt-br pdf-en-us
 
