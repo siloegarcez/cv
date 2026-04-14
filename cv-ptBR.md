@@ -48,7 +48,7 @@ Engenheiro de Software Backend com mais de 4 anos de experiência em Go e Python
   - Desenvolvi algoritmo para geração automática de planos alimentares personalizados a partir de questionários de anamnese, considerando preferências, hábitos e restrições alimentares dos clientes, **diminuindo o tempo de montagem de planos alimentares e treinos em mais de 50%**, necessitando apenas validação e ajustes finais.
   - Arquitetura e execução de migração para AWS, implementando alta disponibilidade com múltiplas AZs, health checks e auto scaling, **resultando na melhoria do uptime do sistema de 99,8% para 99,99%.**
 
-  **Habilidades:** Automação de Processos, DevOps, CI/CD, Microserviços.
+  **Habilidades:** Automação de Processos, DevOps, CI/CD, Microsserviços.
 
   **Tecnologias:** Go/Golang, Python, AWS (ECS, EC2, RDS, S3, ALB, EventBridge), MariaDB, Gin, GORM, Testify, GoMock, FastAPI, SQLAlchemy, Pytest, Testcontainers.
 
