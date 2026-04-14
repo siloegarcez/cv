@@ -5,7 +5,7 @@ Brasília, DF, Brasil
 ## Contato
 
 Email: [garcez@siloe.dev](mailto:garcez@siloe.dev)  
-Telefone: [+55 61 9 8257-5487](https://wa.me/5561982575487)  
+Telefone: [+55 61 98257-5487](https://wa.me/5561982575487)  
 LinkedIn: [in/siloegarcez](https://www.linkedin.com/in/siloegarcez)  
 GitHub: [github.com/siloegarcez](https://github.com/siloegarcez)  
 
@@ -15,20 +15,22 @@ Engenheiro de Software Backend com mais de 4 anos de experiência em Go e Python
 
 ## Habilidades
 
-- **Linguagens:** Go/Golang, Python, JavaScript, TypeScript
+- **Linguagens:** Go, Python, JavaScript, TypeScript
+- **Frameworks e Bibliotecas:** Fiber, Gin, FastAPI, Flask, SQLAlchemy, Express
 - **Banco de dados:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis
-- **Mensageria:** SQS, RabbitMQ
-- **Cloud:** AWS (ECS, EC2, RDS, S3, ALB, WAF, CodeDeploy, CloudFront, EventBridge), Docker, CI/CD
+- **Mensageria e Streaming:** AWS SQS, RabbitMQ, Apache Kafka
+- **Cloud e Infra:** AWS (ECS, EC2, RDS, S3, ALB, WAF, CloudFront, EventBridge), Docker
+- **CI/CD:** GitHub Actions, AWS CodeDeploy
 - **Ferramentas:** Linux, Git, GitHub, GitLab, Postman, DBeaver
-- **Frameworks:** Gin, Echo, Fiber, GORM, FastAPI, Flask, SQLAlchemy, Express
-- **Testes:** Pytest, Testify, Testcontainers, GoMock
-- **Boas Práticas:** Clean Code, Clean Architecture, Arquitetura Hexagonal, DDD, TDD, SOLID
+- **Aquitetura e Design:** Monólitico, Microsserviços, Serverless, Multi-tenant
+- **Testes:** Pytest, Testify, Testcontainers
+- **Boas Práticas:** Clean Architecture, Arquitetura Hexagonal, Arquitetura em Camadas, DDD, TDD, SOLID
 
 ## Experiência
 
 ### Life In Fit - Nutrição & Personal (Mar 2021 - Presente)
 
-- **Desenvolvedor Backend Sênior (Jan 2025 - Presente)**
+- **Engenheiro de Software Backend Sênior (Jan 2025 - Presente)**
   - Atuo no desenvolvimento de uma plataforma SaaS B2B multi-tenant voltada para nutricionistas e personal trainers, **definindo arquitetura, implementando soluções, padrões técnicos e roadmap de evolução do sistema.**
   - Liderei a implementação de arquitetura multi-gateway de pagamento, permitindo a operação simultânea com dois provedores distintos. **Resultando em redução efetiva de custos de ~10–20% por transação** ao transitar de um gateway com take rate por venda para um modelo de mensalidade fixa.
   - Modelei e otimizei o banco de dados para agregação e normalização de centenas de milhares
@@ -41,16 +43,16 @@ Engenheiro de Software Backend com mais de 4 anos de experiência em Go e Python
   **Tecnologias:** Go/Golang, PostgreSQL, Redis, AWS (ECS, EC2, RDS, SQS, S3, ALB, CloudFront, WAF, EventBridge, CodeDeploy), Fiber, Testify, Testcontainers, GoMock.
 
 
-- **Desenvolvedor Backend Pleno (Jan 2022 - Dez 2024)**
+- **Engenheiro de Software Backend Pleno (Jan 2022 - Dez 2024)**
   - Projetei e desenvolvi um sistema de automação ponta a ponta para onboarding, pagamento recorrente, gestão de clientes de nutricionistas e personal trainers, gerenciando assinaturas, treinos, planos alimentares e renovações, substituindo processos manuais e **elevando a capacidade operacional em mais de 200x.**
   - Desenvolvi algoritmo para geração automática de planos alimentares personalizados a partir de questionários de anamnese, considerando preferências, hábitos e restrições alimentares dos clientes, **diminuindo o tempo de montagem de planos alimentares e treinos em mais de 50%**, necessitando apenas validação e ajustes finais.
   - Arquitetura e execução de migração para AWS, implementando alta disponibilidade com múltiplas AZs, health checks e auto scaling, **resultando na melhoria do uptime do sistema de 99,8% para 99,99%.**
 
-  **Habilidades:** Automação de Processos, DevOps, CI/CD, Microsserviços.
+  **Habilidades:** Automação de Processos, DevOps, CI/CD, Microserviços.
 
   **Tecnologias:** Go/Golang, Python, AWS (ECS, EC2, RDS, S3, ALB, EventBridge), MariaDB, Gin, GORM, Testify, GoMock, FastAPI, SQLAlchemy, Pytest, Testcontainers.
 
-- **Desenvolvedor Backend Júnior (Mar 2021 - Dez 2021)**
+- **Engenheiro de Software Backend Júnior (Mar 2021 - Dez 2021)**
   - Desenvolvi e implantei chatbots no WhatsApp e Telegram para automação de anamnese nutricional/física e planos alimentares/treinos, estruturando fluxo conversacional orientado a regras para coleta de dados personalizados para cada profissional, capaz de lidar com milhares de interações diárias, **eliminando o tempo gasto pelos nutricionistas e personais na coleta de dados de anamnese.**
   - Desenvolvi integrações com APIs de terceiros (Google Sheets e Google Docs), automatizando a geração de centenas de documentos mensais e **reduzindo em ~70% o tempo dedicado a tarefas administrativas.**
 
@@ -67,4 +69,4 @@ Engenheiro de Software Backend com mais de 4 anos de experiência em Go e Python
 ## Idiomas
 
 - **Português:** Nativo
-- **Inglês:** Avançado (Apto à comunicação fluente, leitura e escrita técnica)
+- **Inglês:** Avançado (comunicação fluente, leitura e escrita técnica)
